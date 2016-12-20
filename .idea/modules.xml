@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/logWebsite.iml" filepath="$PROJECT_DIR$/.idea/logWebsite.iml" />
+      <module fileurl="file://C:/web2py/web2py_win/web2py/applications/shot/.idea/shot.iml" filepath="C:/web2py/web2py_win/web2py/applications/shot/.idea/shot.iml" />
     </modules>
   </component>
 </project>
